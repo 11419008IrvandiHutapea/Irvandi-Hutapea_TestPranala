@@ -1,3 +1,34 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Mobipaid  Configuration/label_Yes",
+      "brokenLocator": "//section[@id\u003d\u0027main-content\u0027]/section/div/div/section/form/div/div[2]/div/div[2]/label[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027No\u0027])[4]/preceding::label[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Mobipaid  Configuration/label_Yes_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Mobipaid  Merchant Application/input_Referral_referral_general",
+      "brokenLocator": "//input[@id\u003d\u0027referral_general\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Mobipaid  Merchant Application/input_Referral_referral_general_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Mobipaid  Configuration/label_Yes",
+      "brokenLocator": "//section[@id\u003d\u0027main-content\u0027]/section/div/div/section/form/div/div[2]/div/div[2]/label[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//section[@id\u003d\u0027main-content\u0027]/section/div/div/section/form/div/div[2]/div/div[2]/label[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Mobipaid  Configuration/label_Yes_idRelative.png"
+    }
+  ]
 }

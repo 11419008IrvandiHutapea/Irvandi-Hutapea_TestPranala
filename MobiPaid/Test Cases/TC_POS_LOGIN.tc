@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_NEG_Regist</name>
+   <name>TC_POS_LOGIN</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>052d19b0-9abd-4160-8eea-c52ea321b92a</testCaseGuid>
+   <testCaseGuid>6fe8196c-700f-4746-9727-8385a7723818</testCaseGuid>
 </TestCaseEntity>

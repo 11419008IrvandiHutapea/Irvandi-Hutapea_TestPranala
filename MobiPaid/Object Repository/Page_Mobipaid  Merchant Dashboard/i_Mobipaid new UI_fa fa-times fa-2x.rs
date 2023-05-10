@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Mobipaid new UI_fa fa-times fa-2x</name>
+   <tag></tag>
+   <elementGuidId>5d950e1d-53ea-4d0f-aab8-827b23d1d8b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='news1']/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-times.fa-2x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>465fa310-2a61-48c6-8864-ac62331e7347</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-times fa-2x</value>
+      <webElementGuid>ab4b625b-55e7-4244-8172-8844b5c8d2d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5b468496-7820-416d-860e-95957a33d0b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;news1&quot;)/div[@class=&quot;news-card&quot;]/div[@class=&quot;close-btn&quot;]/a[@class=&quot;close-walktrough&quot;]/i[@class=&quot;fa fa-times fa-2x&quot;]</value>
+      <webElementGuid>98189be4-0d41-442e-bef6-a558e06e0658</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='news1']/div/div/a/i</value>
+      <webElementGuid>843a2701-088f-49b9-8b51-8c5a36a13ce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>d4a678db-f9d0-4dae-b807-334804b731d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
